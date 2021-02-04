@@ -1,10 +1,10 @@
 {
     "name": "manuel",
-    "description": "Manuel Martínez",
-    "version": "1.0",
+    "description": "manuel martínez",
+    "version": "0.0.1",
     "private": true,
     "dependencies": {
         "express": "3.x"
     },
-    "scripts": {"start": "node app.js"}
+    "scripts": {"start": "node appweb.js"}
 }
